@@ -19,9 +19,9 @@ global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://wa.me/2349136429929?text=READY";
-global.gurl  = process.env.GURL || "https://wa.me/2349136429929?text=READY";
-global.website= process.env.GURL|| "https://wa.me/2349136429929?text=READY" ; 
+global.github=process.env.GITHUB|| "https://wa.me/2349136429929?text=Hi+i+need+a+WhatsApp+Bot+which+costs+1000";
+global.gurl  = process.env.GURL || "https://wa.me/2349136429929?text=Hi+i+need+a+WhatsApp+Bot+which+costs+1000";
+global.website= process.env.GURL|| "https://wa.me/2349136429929?text=Hi+i+need+a+WhatsApp+Bot+which+costs+1000" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/3780f1df2784488686e2b.jpg" ; // SET LOGO FOR IMAGE 
 
 
